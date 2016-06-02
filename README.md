@@ -21,4 +21,4 @@ When the initial list of number characters is empty, the current number of the s
 To use the solution: run the python script from a terminal passing it the name of the input file followed by the desired name of the output file.   
 
 ```
-$ /User python sheep.py C-small-practice.in small-output.out
+User$ python sheep.py C-small-practice.in small-output.out
